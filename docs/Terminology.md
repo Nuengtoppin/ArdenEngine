@@ -65,3 +65,31 @@ PFO (Perceptual Filter Optimization Layer)
 
 PFO не меняет состояние мира,
 он меняет только как игрок его видит.
+
+
+# Arden Terminology
+
+### Core
+Voxel Layer — geometry & matter storage  
+Vector Layer — structure, behavior, proxy physics  
+HAOS — sector lifecycle manager  
+DTO — archived data state  
+Attention Sector — simulation & resource unit  
+PFO — perception optimization  
+Butler — analytical validation system  
+Aspectrolog — aspect editing tool  
+Test Room — controlled simulation environment  
+
+### Data units
+Voxel — minimal world element  
+Octochunk — voxel block 32x32x32  
+SectorID / ChunkID — spatial identifiers  
+
+### States
+Active — full simulation  
+Partial — reduced simulation  
+Sleep — disabled rendering  
+DTO Archive — archived raw data  
+
+> This dictionary overrides any alternative meaning.
+

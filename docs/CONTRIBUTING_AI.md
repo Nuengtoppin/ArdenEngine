@@ -12,3 +12,10 @@ This repository supports collaboration with AI assistants.
 
 ### Goal
 Consistency across build iterations and preservation of core design intent.
+
+---
+
+### 🔗 Связанные правила
+
+Все ИИ обязаны следовать:
+➡ [AI_UPDATE_RULES.md](./AI_UPDATE_RULES.md)

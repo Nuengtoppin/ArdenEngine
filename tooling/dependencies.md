@@ -15,4 +15,13 @@
 | rustup | управление toolchain |
 | (добавишь позже) | … |
 
-> Заполнять по мере подключения
+# Dependencies for ArdenEngine
+
+| Library | Version | Purpose |
+|--------|---------|---------|
+| bevy | 0.13 | Graphics + ECS + Input |
+
+Toolchain:
+- Rust 1.90.0 stable
+- Target: x86_64-pc-windows-msvc
+- Cargo on D: drive

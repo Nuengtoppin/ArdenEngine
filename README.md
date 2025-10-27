@@ -23,6 +23,9 @@ Hybrid voxel-vector game engine based on attention-driven simulation and scalabl
 | [Aspectrolog.md](docs/Aspectrolog.md) | Создание аспектов объектов |
 | [TestRoom.md](docs/TestRoom.md) | Контролируемое тестирование поведения |
 | [DataFormat_v0.1.md](docs/DataFormat_v0.1.md) | Формат хранения данных (Voxel + DTO) |
+Дополнительно:  
+🔒 [AI_UPDATE_RULES.md](AI_UPDATE_RULES.md) — строгий протокол взаимодействия ИИ
+
 
 ---
 

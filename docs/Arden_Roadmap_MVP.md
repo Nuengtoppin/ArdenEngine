@@ -1,2 +1,0 @@
-# Arden MVP Roadmap
-

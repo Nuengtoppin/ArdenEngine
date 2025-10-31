@@ -1,9 +1,0 @@
-# Rust
-/target/
-/Cargo.lock
-
-# IDE & tooling
-.vscode/
-.idea/
-*.log
-.DS_Store

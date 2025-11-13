@@ -25,7 +25,7 @@ through code, design, research, or discussion.
 
 
 
-|-------------------|---------------|-------|
+|------------------|--------------|-------|
 
 If you’ve shared thoughts, helped test, built modules, or provided design insight —  
 feel free to open a pull request to add yourself here.  

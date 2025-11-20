@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Arden Dev Team <dev@arden>"]
 description = "Arden Engine MVP — stable base on Bevy 0.13.2"
-license = "MIT"
+license = "MIT OR Apache-2.0"
 default-run = "arden"
 
 [dependencies]
@@ -29,3 +29,4 @@ codegen-units = 16
 [profile.release]
 opt-level = 3
 lto = true
+

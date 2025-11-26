@@ -1,0 +1,88 @@
+# ============================
+# Rust / Cargo
+# ============================
+target/
+Cargo.lock
+**/*.rs.bk
+rustfmt.toml
+
+# ============================
+# Bevy / Game Assets
+# ============================
+*.png~
+*.tmp
+*.bak
+
+# ============================
+# Build Artifacts
+# ============================
+*.exe
+*.dll
+*.pdb
+*.so
+*.dylib
+*.wasm
+*.rlib
+*.rmeta
+*.d
+*.o
+
+# ============================
+# WASM (если будешь собирать)
+# ============================
+wasm-pack.log
+pkg/
+wasm_bindgen_bg.*
+*.wasm
+
+# ============================
+# IDE / Editor Files
+# ============================
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+
+# JetBrains
+*.iml
+out/
+
+# VSCode
+.history/
+
+# ============================
+# OS / System Files
+# ============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================
+# Logs / Temp
+# ============================
+*.log
+*.tmp
+*.temp
+*.old
+*.orig
+*.cache
+.cache/
+.tmp/
+temp/
+
+# ============================
+# Git Backup Noise
+# ============================
+*.orig
+*.rej
+*.patch~
+*.orig.*
+
+# ============================
+# Markdown / Docs (optional)
+# ============================
+# Если хочешь, можно игнорировать временные MD-файлы редакторов
+*.md.tmp
+*.md.bak
+*.md.save

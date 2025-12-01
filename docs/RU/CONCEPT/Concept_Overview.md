@@ -1,9 +1,8 @@
-
-**Document Status:** 🧩 Draft  
-**Version:** 0.2.0  
+**Document Status:** 🧩 Draft   
+**Version:** 0.1.0  
 **Maintainer:** Nuengtoppin  
-**Last updated:** 2025-11-26  
-**Purpose:** Conceptual overview of the Arden Engine design and topology  
+**Reviewed by:** —  
+**Last update:** 2025-11-16
 
 ---
 
@@ -229,6 +228,6 @@ debug-панели, инспекция топологии, тесты конте
 
 ---
 
-📚 [Вернуться к дорожной карте →](../roadmap.md)
+📚 [Вернуться назад →](./readme.md)
 
 ---

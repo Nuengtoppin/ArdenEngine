@@ -76,6 +76,28 @@ interested in exploring the mechanics of hybrid worlds and dynamic geometry.
 
 ---
 
+
+## 🌐 **Community & Communication**
+
+Join the Arden Engine community — discuss, contribute, and explore ideas together.  
+Сообщество **Arden Engine** открыто для разработчиков, исследователей и энтузиастов,  
+интересующихся архитектурой, симуляцией и воксельными системами.
+
+<p align="center">
+  <a href="https://discord.gg/YOUR_INVITE_CODE">
+    <img src="https://img.shields.io/badge/Discord-Arden%20Lab-blue?logo=discord&logoColor=white" alt="Discord Server">
+  </a>
+  <a href="https://www.reddit.com/r/ArdenEngine/">
+    <img src="https://img.shields.io/badge/Reddit-r%2FArdenEngine-orange?logo=reddit&logoColor=white" alt="Reddit Community">
+  </a>
+</p>
+
+> Discord — для живых обсуждений, R&D, прототипов и вопросов по архитектуре.  
+> Reddit — для открытых публикаций, обзоров и обсуждений версий.
+
+---
+
+
 ## 🤝 **Contributors & Collaborators**
 
 ### 🇬🇧

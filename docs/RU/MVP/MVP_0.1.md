@@ -1,3 +1,8 @@
+**Document Status:** 🔬 Review  
+**Version:** 0.1.0  
+**Maintainer:** Nuengtoppin  
+**Reviewed by:** —  
+**Last update:** 2025-12-04
 
 ---
 
